@@ -1,4 +1,5 @@
-# pr_course
+# pr_course python
+python
 pr_course
 bayes
 kNN
